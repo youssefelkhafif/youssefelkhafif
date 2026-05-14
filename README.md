@@ -129,10 +129,10 @@ A Laravel/Blade project for managing blog content.
 
 ## ✨ Fun Facts
 
-- I enjoy building clean, responsive, and user-friendly web applications.
-- I’m constantly improving my skills as a full-stack developer.
-- I like turning ideas into real projects using modern web technologies.
-- I’m motivated to learn, grow, and work with teams on meaningful projects.
+- Passionate about building practical and modern web applications.
+- Focused on growing as a full-stack developer through real projects.
+- Always learning new technologies and improving my problem-solving skills.
+- Open to internships, teamwork, and opportunities to gain real-world experience.
 
 ---
 
